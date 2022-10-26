@@ -1,0 +1,39 @@
+This is an application to diamonds data: 
+
+The "carat" is chosen as the auxiliary variable 
+
+Every single observation is marked 1 to 5 by the level of "cut" from Fair to Ideal 
+
+The estimation of mean price under Stratified SRS design 
+
+The full size N = 53940 
+The total sample size of Stratified SRS n = 5000 
+The respective sample size of each layer nh =  149 455 1120 1278 1998 
+
+The result for Stratified SRS simple estimation: 
+
+Est =  4042.066 
+Var =  2936.565 
+SD =  54.19008 
+CI = [ 3935.855 , 4148.277 ] 
+
+The result for Stratified SRS separate Ratio estimation: 
+
+Est =  3986.557 
+Var =  764.7336 
+SD =  27.65382 
+CI = [ 3932.356 , 4040.757 ] 
+
+The result for Stratified SRS combined Ratio estimation: 
+
+Est =  3986.126 
+Var =  772.6211 
+SD =  27.79606 
+CI = [ 3931.646 , 4040.605 ] 
+
+The result for Stratified SRS size: 
+
+           Layer1 Layer2 Layer3 Layer4 Layer5    TotalSize
+simple        681   2075   5110   5832   9114        22812
+ratio.sep     177    540   1331   1519   2374         5941
+ratio.comb    179    546   1344   1535   2398         6002

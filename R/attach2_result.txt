@@ -1,0 +1,33 @@
+This is an application to diamonds data: 
+
+The "carat" is chosen as the related variable 
+
+Every single observation is marked 1 to 7 by the level of "color" from D to J 
+
+The estimation of mean price under Stratified SRS design 
+
+The full size N = 53940 
+The total sample size of Stratified SRS n = 5000 
+The respective sample size of each layer nh =  628 908 885 1047 770 503 260 
+
+The result for Stratified SRS simple estimation: 
+
+Est =  3960.063 
+Var =  2882.81 
+SD =  53.69181 
+CI = [ 3854.829 , 4065.297 ] 
+
+The result for Stratified SRS separate regression estimation: 
+
+Est =  3947.623 
+Var =  394.0402 
+SD =  19.85045 
+CI = [ 3908.717 , 3986.529 ] 
+
+The result for Stratified SRS combined regression estimation: 
+
+Est =  3945.038 
+Var =  401.6213 
+SD =  20.04049 
+CI = [ 3905.759 , 3984.317 ] 
+
